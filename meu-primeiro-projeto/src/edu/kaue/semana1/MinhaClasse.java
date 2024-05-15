@@ -1,3 +1,4 @@
+package edu.kaue.semana1;
 public class MinhaClasse {
     public static void main(String[] args) {
         String primeiroNome = "Kauê";
